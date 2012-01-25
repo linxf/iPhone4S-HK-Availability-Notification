@@ -1,0 +1,6 @@
+description:	This is a GAE program to check the availablity of iPhone4S at HK Apple Store every one minute and notify via google talk.
+
+files:
+-app.yaml:	replace your_app_id with your GAE app id
+-guru.py:	replace your_gtalk_account@gmail.com with your talk account
+-cron.yaml:	

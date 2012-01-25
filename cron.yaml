@@ -1,0 +1,4 @@
+cron:
+- description: checkiphone4savailable
+  url: /
+  schedule: every 1 minutes synchronized
